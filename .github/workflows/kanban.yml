@@ -19,7 +19,7 @@ jobs:
           SLACK_COLOR: '#53A551'
           SLACK_ICON: https://sm.ign.com/ign_kr/gallery/l/lion-king-/lion-king-trailer-comparison_fbap.jpg
           SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
-          SLACK_TITLE: 'FILLIN/PR Check S.U.C.C.E.S.S 🎉🎉🎉'
+          SLACK_TITLE: '오늘의 할 일을 적어봅시다!'
           MSG_MINIMAL: true
           SLACK_USERNAME: SIMBA
           SLACK_MESSAGE: '할일 적어주면 안 잡아먹지~ 🦁'
